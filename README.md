@@ -102,8 +102,6 @@ sv-volatility-model/
 ├── data/
 │   └── BRK-B.csv          # Berkshire Hathaway B daily prices (2018–2023)
 ├── figures/                # Generated plots (created by the notebook)
-├── thesis/
-│   └── Kai_Koepchen_7385179.pdf   # Bachelor's thesis PDF
 ├── matlab_original/        # Original MATLAB implementation (reference)
 │   ├── MCMC_estimation.m
 │   ├── plot_results.m
